@@ -1,0 +1,11 @@
+.tablist {
+  display: flex;
+  justify-content: space-around;
+  min-width: 75vw;
+}
+
+.ulsty {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
